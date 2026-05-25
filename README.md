@@ -1,6 +1,6 @@
 ## Hi there, I'm Fernandes Mukanda 👋
 
-I am junior fullstack Software Developer with a passion for building enterprise application solutions, automating business processes, and experimenting with AI and blockchain technology. 
+Full-Stack Architect | Agentic AI, Data Pipelines & Enterprise Platforms > Transforming complex technical requirements into reliable, production-grade solutions.
 
 I love learning new skills, exploring new geography, fashion enterprenur, street photography, and traveling.  
 
