@@ -28,9 +28,9 @@ Beyond engineering, I am a fashion entrepreneur, street photographer, and geogra
 
 ## 📈 Ongoing Projects
 
-* **ERP:** An event-driven Enterprise Resource Planning system utilizing multi-agent orchestration and strict triple-entry ledger designs.
-* **Trader Platform Simulator:** A high-throughput capital markets simulator and intelligent wealth management engine handling real-time stream data.
-* **Market App:** An autonomous multi-agent marketing ecosystem executing and optimizing campaigns based on consumer analytics.
+* **AuraERP:** An event-driven Enterprise Resource Planning system utilizing multi-agent orchestration and strict triple-entry ledger designs.
+* **ApexTrader:** A high-throughput capital markets simulator and intelligent wealth management engine handling real-time stream data.
+* **PulseMarket:** An autonomous multi-agent marketing ecosystem executing and optimizing campaigns based on consumer analytics.
 
 ---
 
